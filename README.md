@@ -1,5 +1,8 @@
 # hse21_hw2
 
+
+Ссылка на collab (вся работа сделана в одном ноутбуке): https://colab.research.google.com/drive/1y9j0W114kx5FIrZaL9AMewjat2rZ-xND?usp=sharing
+
 Статистика:
 1. Предсказано генов всего: 3611
 2. Удалось аннотировать с помощью сравнения с бактерией MIL-1: 3332
